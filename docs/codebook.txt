@@ -1,0 +1,26 @@
+patient_id:
+Unique identifier for each patient.
+
+encounter_id:
+Unique identifier for each clinical encounter (visit).
+
+visit_start:
+Datetime when encounter begins.
+
+visit_stop:
+Datetime when encounter ends.
+
+encounter_type:
+Text description of type of clinical visit.
+
+lab_value:
+Observed laboratory or vital sign value (character, may require numeric conversion).
+
+lab_units:
+Units corresponding to lab_value.
+
+med_code:
+Medication code.
+
+med_desc:
+Medication description.

@@ -1,0 +1,15 @@
+
+Each row represents a single clinical encounter (visit) for a patient.
+
+Key identifiers:
+- patient_id = unique patient
+- encounter_id = unique visit
+
+Time variables:
+- visit_start
+- visit_stop
+
+Multiple rows per patient indicate repeated measurements over time (longitudinal data).
+
+Labs and medications are attached at the encounter level, so a visit may appear multiple times when multiple labs or medications exist.
+
