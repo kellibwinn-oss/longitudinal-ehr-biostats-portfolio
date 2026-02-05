@@ -1,7 +1,6 @@
-Decision Log
+# Week 1
 
-2026-01-18
-Created repo structure and README. Began biostatistics portfolio build aligned to longitudinal EHR-style observational data.
-
-Notes
-Use this log to record assumptions, data issues, and key decisions for reproducibility.
+- Dataset source: Synthea CSV sample  
+- Created visit spine from encounters and joined labs and meds by encounter id  
+- Saved combined longitudinal dataset to data_processed/visit_long.csv  
+- Saved QC outputs to output/qc  

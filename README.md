@@ -1,19 +1,16 @@
-# Longitudinal EHR Biostatistics Portfolio (R + SAS)
+# Longitudinal EHR Biostatistics Portfolio
 
-## Purpose
-This repository documents my biostatistics portfolio focused on large-scale longitudinal observational data similar to EHR-derived datasets (labs, pharmacy, and patient-reported outcomes).
+## Week 1: Visit-level longitudinal data build
 
-## Tools
-- R
-- SAS
-- SQL (as needed)
+Workflow:
+1. Imported raw EHR-style CSV data (patients, encounters, labs, medications)
+2. Created visit-level spine from encounters
+3. Joined labs and medications by encounter_id
+4. Performed data quality checks in R (missingness, duplicates, distributions)
+5. Reproduced QC summaries in SAS (PROC FREQ, PROC MEANS)
+6. Saved analysis datasets and QC outputs
+7. Documented variables (codebook) and decisions (decision log)
 
-## Workflow
-1. Import and clean longitudinal datasets
-2. Perform data quality control and validation checks
-3. Create analytic datasets and codebooks (data dictionaries)
-4. Draft statistical analysis plans (SAPs)
-5. Produce publication-ready tables, listings, and figures (TLFs)
-
-## Status
-Portfolio in progress. Weekly updates and outputs will be added throughout 2026.
+Tools:
+- R (tidyverse)
+- SAS (PROC SQL, PROC FREQ, PROC MEANS)

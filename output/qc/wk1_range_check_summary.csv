@@ -1,0 +1,275 @@
+DESCRIPTION.x,UNITS,n,n_numeric,min,p1,median,p99,max
+Pain severity - 0-10 verbal numeric rating [Score] - Reported,{score},4331,4331,0,0,2,6,10
+Diastolic Blood Pressure,mm[Hg],3748,3748,47,49,76,107,119
+Systolic Blood Pressure,mm[Hg],3748,3748,76,90,115,152,164
+Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,mL/min/{1.73_m2},3716,3716,1.5,4.2,52.4,148.1,158.5
+Body Weight,kg,3550,3550,2.9,7.0489999999999995,79.45,110.9,127.9
+Heart rate,/min,3529,3529,60,60,80,129.8,199.7
+Respiratory rate,/min,3529,3529,12,12,14,36.1,37.4
+Body Height,cm,3420,3420,46.6,63.657000000000004,169.5,193.3,195.1
+Body mass index (BMI) [Ratio],kg/m2,3333,3333,14,15.5,27.6,40.3,48.3
+Hemoglobin A1c/Hemoglobin.total in Blood,%,3140,3140,2.3,2.8,3.9,6.9,7.6
+Calcium [Mass/volume] in Blood,mg/dL,3126,3126,8.5,8.5,9.3,10.2,10.2
+Carbon dioxide  total [Moles/volume] in Blood,mmol/L,3126,3126,20,20.1,24.3,28.9,29
+Chloride [Moles/volume] in Blood,mmol/L,3126,3126,101,101.2,105.6,110.9,111
+Creatinine [Mass/volume] in Blood,mg/dL,3126,3126,0.6,0.6,1.5,18.1,40.2
+Glucose [Mass/volume] in Blood,mg/dL,3126,3126,64,64.5,86.6,123.9,197.1
+Potassium [Moles/volume] in Blood,mmol/L,3126,3126,3.7,3.7,4.4,5.2,5.2
+Sodium [Moles/volume] in Blood,mmol/L,3126,3126,136,136.1,139.8,143.9,144
+How many people are living or staying at this address [#],{#},3012,3012,1,1,4,8,8
+What was your best estimate of the total income of all family members from all sources  before taxes  in last year [PhenX],/a,3012,3012,1097,1097,117621,715340,949690
+Calcium [Mass/volume] in Serum or Plasma,mg/dL,2775,2775,8.5,8.5,9.3,10.2,10.2
+Carbon dioxide  total [Moles/volume] in Serum or Plasma,mmol/L,2775,2775,20,20.1,24.5,28.9,29
+Chloride [Moles/volume] in Serum or Plasma,mmol/L,2775,2775,101,101.2,105.8,111,111
+Creatinine [Mass/volume] in Serum or Plasma,mg/dL,2775,2775,1,1,2,2.9,5
+Glucose [Mass/volume] in Serum or Plasma,mg/dL,2775,2775,64,64.5,85.4,123.6,190.4
+Potassium [Moles/volume] in Serum or Plasma,mmol/L,2775,2775,3.7,3.7,4.4,5.2,5.2
+Sodium [Moles/volume] in Serum or Plasma,mmol/L,2775,2775,136,136.1,139.7,143.9,144
+Urea nitrogen [Mass/volume] in Serum or Plasma,mg/dL,2775,2775,7,7.2,13.4,20,20
+Glucose [Mass/volume] in Urine by Test strip,mg/dL,2737,2737,0.1,0.5,1.5,2.5,14.6
+Protein [Mass/volume] in Urine by Test strip,mg/dL,2737,2737,0,54.132,276.4,445.2,449.5
+Specific gravity of Urine by Test strip,{nominal},2737,2737,1,1,1,1,1
+pH of Urine by Test strip,pH,2737,2737,5,5,6,7,7
+Bilirubin.total [Mass/volume] in Urine by Test strip,mg/dL,2721,2721,0.2,0.2,0.8,1.5,1.5
+Ketones [Mass/volume] in Urine by Test strip,mg/dL,2721,2721,0,0.1,10.1,19.8,20
+Urea nitrogen [Mass/volume] in Blood,mg/dL,2596,2596,7,7.195,13.6,19.8,20
+Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],{score},2440,2440,0,0,1,5,6
+Cholesterol [Mass/volume] in Serum or Plasma,mg/dL,1528,1528,90.1,121.93199999999999,229.4,311.1,325.6
+Cholesterol in HDL [Mass/volume] in Serum or Plasma,mg/dL,1528,1528,20.6,25.5,53.4,71.773,79.6
+Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,mg/dL,1528,1528,13.6,44.208,145.2,235.7,267.7
+Triglyceride [Mass/volume] in Serum or Plasma,mg/dL,1528,1528,100.5,102.4,140.7,232.9,486.4
+Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],{score},1442,1442,0,0,2,15,21
+Fall risk total [Morse Fall Scale],{#},1315,1315,0,0,35,123,125
+Microalbumin/Creatinine [Mass Ratio] in Urine,mg/g,1126,1126,0.4,0.7,27.5,584.8249999999999,590.1
+Hemoglobin [Mass/volume] in Blood,g/dL,1056,1056,6.1,7.7,13.6,17.4,17.7
+Erythrocytes [#/volume] in Blood by Automated count,10*6/uL,1044,1044,3.8,3.9,4.8,5.5,5.8
+Leukocytes [#/volume] in Blood by Automated count,10*3/uL,1044,1044,0.9,2.1,6.7,10.4,10.7
+MCH [Entitic mass] by Automated count,pg,1044,1044,26.7,27.243,29.9,32.9,33
+MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count,g/dL,1044,1044,31.7,32.1,34.7,36,36
+MCV [Entitic mean volume] in Red Blood Cells by Automated count,fL,1044,1044,79.1,80,88,95.8,96.8
+Platelets [#/volume] in Blood by Automated count,10*3/uL,1044,1044,99.3,106,249.1,442.4,448.8
+Hematocrit [Volume Fraction] of Blood by Automated count,%,1030,1030,26.8,28.7,42.1,49.4,50
+Total score [HARK],{score},900,900,0,0,0,4,4
+Total score [DAST-10],{score},881,881,0,0,1,8,8
+Erythrocyte [DistWidth] in Blood by Automated count,fL,871,871,39,39.2,42.5,46,46
+Platelet [Entitic mean volume] in Blood by Automated count,fL,871,871,9.4,9.4,11,12.3,12.3
+Platelet distribution width [Entitic volume] in Blood by Automated count,fL,871,871,151.6,152.1,320.8,501.0099999999999,516.3
+Total score [AUDIT-C],{score},823,823,0,0,1,9.779999999999973,11
+Weight difference [Mass difference] --pre dialysis - post dialysis,kg,802,802,1,1.1,3,5,5
+Urea Nitrogen [Mass/volume] in Blood,mg/dL,530,530,7.3,7.7,14.4,19.9,19.9
+Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,mL/min,414,414,4.3,5.1129999999999995,12.3,122,122
+Albumin [Mass/volume] in Serum or Plasma,g/dL,395,395,3.5,3.6,4.6,5.5,5.5
+Protein [Mass/volume] in Serum or Plasma,g/dL,395,395,5.6,5.694,7,8.206,8.5
+Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,U/L,384,384,0.9,4.53,30.3,59.217,59.6
+Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,U/L,384,384,20.7,21.466,74.75,137.853,139.8
+Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,U/L,384,384,1.9,2.8,24.75,39.234,39.9
+Bilirubin.total [Mass/volume] in Serum or Plasma,mg/dL,384,384,0.1,0.18300000000000002,1,14.317000000000002,14.7
+Body mass index (BMI) [Percentile] Per age and sex,%,356,356,0.6,5.1,66,99.845,99.9
+Oxygen saturation in Arterial blood,%,275,275,76.7,78.332,86.2,97.54599999999998,99.5
+Globulin [Mass/volume] in Serum by calculation,g/L,211,211,2,2,2.7,3.4900000000000007,3.5
+Body temperature,Cel,201,201,37,37,37.9,41.9,41.9
+Erythrocyte [DistWidth] in Blood by Automated count,%,173,173,12.3,12.3,13.4,15.027999999999999,15.2
+Patient Health Questionnaire 9 item (PHQ-9) total score [Reported],{score},144,144,3,3,17,26,26
+Bicarbonate [Moles/volume] in Arterial blood,mmol/L,141,141,22,22.38,25.3,26.759999999999998,26.9
+Carbon dioxide [Partial pressure] in Arterial blood,mm[Hg],141,141,35,35.08,39.5,44.7,44.7
+Oxygen [Partial pressure] in Arterial blood,mm[Hg],141,141,37.9,37.9,44.5,98.3,99
+pH of Arterial blood,[pH],141,141,6.8,6.8,7,7.26,7.3
+FEV1/FVC,%,135,135,10.5,10.5,36.8,78.25999999999999,78.6
+Head Occipital-frontal circumference,cm,132,132,32,33.262,45.9,52.069,52.1
+Head Occipital-frontal circumference Percentile,%,132,132,3.3,3.3,45.9,93.8,93.8
+Left eye Intraocular pressure,mm[Hg],132,132,14,14,16,18,18
+LogMAR visual acuity left eye (observable entity),{logmar},132,132,0,0,0,0,0
+LogMAR visual acuity right eye (observable entity),{logmar},132,132,0,0,0,0,0
+Right eye Intraocular pressure,mm[Hg],132,132,14,14,16,18,18
+Weight-for-length Per age and sex,%,132,132,0,0.29300000000000004,50.900000000000006,100,100
+Basophils [#/volume] in Blood by Automated count,10*3/uL,116,116,0,0,0.3,0.4,0.4
+Basophils/Leukocytes in Blood by Automated count,%,116,116,2,2.115,2.8,3.9,3.9
+Eosinophils [#/volume] in Blood by Automated count,10*3/uL,116,116,0,0.015000000000000036,0.3,0.6,0.6
+Eosinophils/Leukocytes in Blood by Automated count,%,116,116,3.3,3.3,5.5,6,6
+Lymphocytes [#/volume] in Blood by Automated count,10*3/uL,116,116,0.4,0.4,0.6,2.9,3
+Lymphocytes/Leukocytes in Blood by Automated count,%,116,116,5.7,5.7,11.5,24.6,24.6
+Monocytes [#/volume] in Blood by Automated count,10*3/uL,116,116,0.2,0.21500000000000002,0.9,1.4,1.4
+Monocytes/Leukocytes in Blood by Automated count,%,116,116,5.2,5.2,7.9,14.624999999999996,14.7
+Neutrophils [#/volume] in Blood by Automated count,10*3/uL,116,116,1.7,1.7,2.5,6.7,6.8
+Neutrophils/Leukocytes in Blood by Automated count,%,116,116,10.2,10.2,26.8,43.71999999999999,43.9
+INR in Platelet poor plasma by Coagulation assay,{INR},107,107,0.8,0.8,3.2,4.5,4.5
+Oxygen/Total gas setting [Volume Fraction] Ventilator,%,98,98,36.3,36.3,49.6,81.1,81.1
+Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],{score},85,85,0,0,2,20.799999999999983,25
+Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,pg/mL,82,82,0,0,8.4,22,22
+Ferritin [Mass/volume] in Serum or Plasma,ug/L,80,80,31.5,41.769999999999996,994,1407.6,1407.6
+Prothrombin time (PT),s,80,80,9.3,9.3,11.7,12.8,12.8
+Magnesium [Mass/volume] in Serum or Plasma,mg/dL,67,67,1.6,1.6,2.1,2.3,2.3
+C reactive protein [Mass/volume] in Serum or Plasma,mg/L,56,56,9.5,9.5,13.45,18,18
+Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,U/L,56,56,82.8,82.8,160.2,170.7,170.7
+Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,ug/mL,56,56,1.3,1.3,1.65,2.6,2.6
+Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,U/L,56,56,317.6,317.6,336.3,343.4,343.4
+Procalcitonin [Mass/volume] in Serum or Plasma,ng/mL,56,56,0,0,0.30000000000000004,0.4,0.4
+aPTT in Blood by Coagulation assay,s,33,33,25.1,25.42,31.4,39.012,39.3
+Activated clotting time (ACT) of Blood by Coagulation assay,s,30,30,111.6,111.6,124.5,427.5,427.5
+Hematocrit [Volume Fraction] of Blood by calculation,%,26,26,27.6,28.225,34.55,48.3,48.3
+Iron [Mass/volume] in Serum or Plasma,ug/dL,24,24,43.5,44.074999999999996,89.5,152.5,152.5
+Iron binding capacity [Mass/volume] in Serum or Plasma,ug/dL,24,24,250.2,254.064,392.3,449.8,449.8
+Iron saturation [Mass Fraction] in Serum or Plasma,%,24,24,21.4,22.273999999999997,33.9,49.4,49.4
+Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma,pg/mL,24,24,572.6,610.849,1643.75,1731,1731
+Phosphate [Mass/volume] in Serum or Plasma,mg/dL,24,24,2.5,2.5460000000000003,3.25,4.477,4.5
+DXA Radius and Ulna [T-score] Bone density,{T-score},22,22,-3.7,-3.7,-3,0.2,0.2
+Pain severity - Reported,{score},20,20,1.7,1.8519999999999999,4.45,9.485999999999999,9.6
+Total score [MMSE],{score},20,20,0.4,0.9319999999999999,19.8,23.1,23.1
+Bicarbonate [Moles/volume] in Venous blood,mmol/L,19,19,22.3,22.3,22.3,25.7,25.7
+Carbon dioxide  total [Moles/volume] in Venous blood,mmol/L,19,19,1.1,1.1,1.1,1.2,1.2
+Carbon dioxide [Partial pressure] in Venous blood,mm[Hg],19,19,47.8,47.8,47.9,47.9,47.9
+Oxygen [Partial pressure] in Venous blood,mm[Hg],19,19,40.2,40.2,44,44,44
+pH of Venous blood,[pH],19,19,7.3,7.3,7.3,7.4,7.4
+Epithelial cells [#/area] in Urine sediment by Microscopy high power field,/[HPF],16,16,0.1,0.115,2.5999999999999996,3.9699999999999998,4
+Erythrocytes [#/area] in Urine sediment by Microscopy high power field,/[HPF],16,16,1.1,1.1,2.15,2.9,2.9
+Leukocytes [#/area] in Urine sediment by Microscopy high power field,/[HPF],16,16,12.3,13.14,33.349999999999994,49.580000000000005,50
+Pain severity in the past week - 0-10 numeric rating [Reported],{score},14,14,1.4,1.4649999999999999,6.5,9.361,9.4
+What number best describes how pain has interfered with your enjoyment of life during the past week,{score},14,14,1.2,1.2129999999999999,4.95,9.887,9.9
+What number best describes how pain has interfered with your general activity during the past week,{score},14,14,1,1.117,4,9.657,9.8
+American house dust mite IgE Ab [Units/volume] in Serum,kU/L,12,12,0,0.01100000000000001,0.3,0.3,0.3
+Bilirubin.total [Presence] in Urine by Test strip,{presence},12,12,0,0,0,1,1
+Cat dander IgE Ab [Units/volume] in Serum,kU/L,12,12,0,0,0.1,0.3,0.3
+Cladosporium herbarum IgE Ab [Units/volume] in Serum,kU/L,12,12,0,0.01100000000000001,0.25,0.3,0.3
+Codfish IgE Ab [Units/volume] in Serum,kU/L,12,12,0,0,0.2,0.3,0.3
+Common Ragweed IgE Ab [Units/volume] in Serum,kU/L,12,12,0,0.01100000000000001,0.2,0.2,0.2
+Cow milk IgE Ab [Units/volume] in Serum,kU/L,12,12,0,0,0.2,0.3,0.3
+Egg white IgE Ab [Units/volume] in Serum,kU/L,12,12,0.1,0.1,0.15000000000000002,0.3,0.3
+Glucose [Presence] in Urine by Test strip,{presence},12,12,0,0,0,1,1
+Hemoglobin [Presence] in Urine by Test strip,{presence},12,12,0,0,0,0,0
+Honey bee IgE Ab [Units/volume] in Serum,kU/L,12,12,0,0,0.1,0.3,0.3
+Ketones [Presence] in Urine by Test strip,{presence},12,12,0,0,0,1,1
+Latex IgE Ab [Units/volume] in Serum,kU/L,12,12,0,0,0.1,0.3,0.3
+Leukocyte esterase [Presence] in Urine by Test strip,{presence},12,12,0,0,0,0,0
+Nitrite [Presence] in Urine by Test strip,{presence},12,12,0,0,0,1,1
+Peanut IgE Ab [Units/volume] in Serum,kU/L,12,12,0,0.01100000000000001,0.2,0.3,0.3
+Protein [Presence] in Urine by Test strip,{presence},12,12,0,0,0,1,1
+Shrimp IgE Ab [Units/volume] in Serum,kU/L,12,12,0,0,0.1,0.2,0.2
+Soybean IgE Ab [Units/volume] in Serum,kU/L,12,12,0,0,0.2,0.2890000000000001,0.3
+Specific gravity of Urine by Test strip,{SG},12,12,1,1,1,1,1
+Walnut IgE Ab [Units/volume] in Serum,kU/L,12,12,0,0,0.2,0.3,0.3
+Wheat IgE Ab [Units/volume] in Serum,kU/L,12,12,0,0.01100000000000001,0.25,0.3,0.3
+White oak IgE Ab [Units/volume] in Serum,kU/L,12,12,0,0,0.15000000000000002,0.3,0.3
+pH of Urine by Test strip,[pH],12,12,4.5,4.533,6.7,7.889,7.9
+Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,[iU]/L,11,11,128.2,128.2,128.2,128.2,128.2
+Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,[iU]/L,11,11,76.9,76.9,76.9,76.9,76.9
+Anion gap in Serum or Plasma by calculation,mmol/L,11,11,3.8,3.8,3.8,3.8,3.8
+Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,[iU]/L,11,11,115.1,115.1,115.1,115.1,115.1
+Bilirubin.total [Mass/volume] in Blood,mg/dL,11,11,1.4,1.4,1.4,1.4,1.4
+Erythrocyte [DistWidth] in Blood,%,11,11,14,14,14,14,14
+Erythrocytes [#/volume] in Blood,10*6/uL,11,11,5.4,5.4,5.4,5.4,5.4
+Globulin [Mass/volume] in Serum by calculation,g/dL,11,11,3.6,3.6,3.6,3.6,3.6
+Leukocytes [#/volume] in Blood,10*3/uL,11,11,12.4,12.4,12.4,12.4,12.4
+MCV [Entitic mean volume] in Red Blood Cells,fL,11,11,85.7,85.7,85.7,85.7,85.7
+Platelets [#/volume] in Blood,K/uL,11,11,290.1,290.1,290.1,290.1,290.1
+Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,ng/L,11,11,38.3,38.42999999999999,87.6,107.8,107.8
+Left ventricular Ejection fraction,%,10,10,38.8,39.358,65.65,87.062,87.8
+Magnesium [Mass/volume] in Blood,mg/dL,9,9,1.8,1.8,2.1,2.192,2.2
+Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Blood by Immunoassay,pg/mL,9,9,1.1,1.108,1.7,1.7,1.7
+Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen,ng/mL,8,8,6.9,6.963,12.55,22.395999999999997,22.9
+Polyp size greatest dimension,mm,8,8,2.1,2.2190000000000003,4.699999999999999,6.379,6.4
+Priority Level,{score},8,8,2,2,2,4,4
+Prostate specific Ag [Mass/volume] in Serum or Plasma,ng/mL,8,8,0.5,0.5,2.2,3.4,3.4
+A great deal of time is spent in activities necessary to obtain the opioid  use the opioid  or recover from its effects,{score},7,7,0.1,0.10600000000000001,0.5,0.9,0.9
+Continued opioid use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of opioids,{score},7,7,0.1,0.10600000000000001,0.5,0.9819999999999999,1
+Continued use despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by opioids.,{score},7,7,0.3,0.324,0.8,1,1
+Craving or a strong desire to use opioids,{score},7,7,0.3,0.306,0.5,0.9879999999999999,1
+Important social  occupational  or recreational activities are given up or reduced because of opioid use,{score},7,7,0.1,0.10600000000000001,0.3,0.6,0.6
+Opioids are often taken in larger amounts or over a longer period than was intended,{score},7,7,0.1,0.1,0.6,0.994,1
+Recurrent opioid use in situations in which it is physically hazardous,{score},7,7,0.1,0.1,0.5,0.9879999999999999,1
+Recurrent opioid use resulting in a failure to fulfill major role obligations at work  school  or home,{score},7,7,0.1,0.10600000000000001,0.4,0.994,1
+There is a persistent desire or unsuccessful efforts to cut down or control opioid use,{score},7,7,0,0.006000000000000005,0.8,0.994,1
+Tolerance as defined by either of the following: a) Need for markedly increased amounts of opioids to achieve intoxication or desired effect b) Markedly diminished effect with continued use of the same amount of opioid,{score},7,7,0,0.018000000000000016,0.3,0.7879999999999999,0.8
+Withdrawal * as manifested by either of the following: a) Characteristic opioid withdrawal syndrome b) Same (or a closely related) substance is taken to relieve or avoid withdrawal symptoms,{score},7,7,0.1,0.10600000000000001,0.5,0.994,1
+Lactate [Moles/volume] in Blood,mmol/L,6,6,3.1,3.1,3.3,3.5,3.5
+Mean blood pressure,mm[Hg],3,3,28.7,28.7,28.7,28.7,28.7
+Overall summary score [KCCQ-12],{score},2,2,24.5,24.714,35.2,45.68599999999999,45.9
+Thyrotropin [Units/volume] in Serum or Plasma,m[IU]/L,2,2,2.5,2.521,3.55,4.579,4.6
+History of Hospitalizations+Outpatient visits Narrative,{count},1,1,3,3,3,3,3
+Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy,{#},1,1,0,0,0,0,0
+Percentage area affected by eczema Head and Neck [PhenX],%,1,1,0,0,0,0,0
+Percentage area affected by eczema Lower extremity - bilateral [PhenX],%,1,1,24.1,24.1,24.1,24.1,24.1
+Percentage area affected by eczema Trunk [PhenX],%,1,1,0,0,0,0,0
+Percentage area affected by eczema Upper extremity - bilateral [PhenX],%,1,1,42.6,42.6,42.6,42.6,42.6
+Size.maximum dimension in Tumor,cm,1,1,1.8,1.8,1.8,1.8,1.8
+Abuse Status [OMAHA],{nominal},1,0,Inf,NA,NA,NA,-Inf
+Address,NA,3012,0,Inf,NA,NA,NA,-Inf
+Adenovirus A+B+C+D+E DNA [Presence] in Respiratory system specimen by NAA with probe detection,NA,3,0,Inf,NA,NA,NA,-Inf
+Appearance of Urine,{nominal},2750,0,Inf,NA,NA,NA,-Inf
+Are you a refugee,NA,3012,0,Inf,NA,NA,NA,-Inf
+Are you covered by health insurance or some other kind of health care plan [PhenX],{nominal},1,0,Inf,NA,NA,NA,-Inf
+Are you worried about losing your housing [PRAPARE],NA,3012,0,Inf,NA,NA,NA,-Inf
+Bacteria [#/area] in Urine sediment by Microscopy high power field,{nominal},16,0,Inf,NA,NA,NA,-Inf
+Bacteria identified in Urine by Culture,NA,16,0,Inf,NA,NA,NA,-Inf
+Bilirubin.total [Presence] in Urine by Test strip,{nominal},2721,0,Inf,NA,NA,NA,-Inf
+Capillary refill [Time] of Nail bed,NA,3,0,Inf,NA,NA,NA,-Inf
+Casts [Presence] in Urine sediment by Light microscopy,{nominal},16,0,Inf,NA,NA,NA,-Inf
+Cause of Death [US Standard Certificate of Death],NA,14,0,Inf,NA,NA,NA,-Inf
+Choriogonadotropin [Presence] in Urine,NA,2,0,Inf,NA,NA,NA,-Inf
+Clarity of Urine,{nominal},2721,0,Inf,NA,NA,NA,-Inf
+Color of Urine,{nominal},2721,0,Inf,NA,NA,NA,-Inf
+Discharged from the U.S. Armed Forces,NA,3012,0,Inf,NA,NA,NA,-Inf
+Distant metastases.clinical [Class] Cancer,NA,1,0,Inf,NA,NA,NA,-Inf
+Do you feel physically and emotionally safe where you currently live [PRAPARE],NA,3012,0,Inf,NA,NA,NA,-Inf
+Drugs of abuse 5 panel - Urine by Screen method,n/a,12,0,Inf,NA,NA,NA,-Inf
+ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH,ratio,1,0,Inf,NA,NA,NA,-Inf
+Emergency severity index [ESI],NA,3,0,Inf,NA,NA,NA,-Inf
+Employment status - current,NA,3012,0,Inf,NA,NA,NA,-Inf
+Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain,NA,1,0,Inf,NA,NA,NA,-Inf
+Fall risk level [Morse Fall Scale],NA,1315,0,Inf,NA,NA,NA,-Inf
+Functional capacity NYHA,NA,4,0,Inf,NA,NA,NA,-Inf
+Glucose [Presence] in Urine by Test strip,{nominal},2721,0,Inf,NA,NA,NA,-Inf
+Gram positive blood culture panel by Probe in Positive blood culture,NA,3,0,Inf,NA,NA,NA,-Inf
+HER2 [Presence] in Breast cancer specimen by Immune stain,NA,1,0,Inf,NA,NA,NA,-Inf
+HIV status,{nominal},1,0,Inf,NA,NA,NA,-Inf
+Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,NA,3012,0,Inf,NA,NA,NA,-Inf
+Has season or migrant farm work been your or your family's main source of income at any point in past 2 years [PRAPARE],NA,3012,0,Inf,NA,NA,NA,-Inf
+Have you or any family members you live with been unable to get any of the following when it was really needed in past 1 year [PRAPARE],NA,3012,0,Inf,NA,NA,NA,-Inf
+Have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility in past 1 year [PRAPARE],NA,3012,0,Inf,NA,NA,NA,-Inf
+Hemoglobin [Presence] in Urine by Test strip,{nominal},2737,0,Inf,NA,NA,NA,-Inf
+Highest level of education,NA,3012,0,Inf,NA,NA,NA,-Inf
+Hispanic or Latino,NA,3012,0,Inf,NA,NA,NA,-Inf
+Housing status,{nominal},1,0,Inf,NA,NA,NA,-Inf
+Housing status,NA,3012,0,Inf,NA,NA,NA,-Inf
+How often do you see or talk to people that you care about and feel close to [PRAPARE],NA,3012,0,Inf,NA,NA,NA,-Inf
+Human metapneumovirus RNA [Presence] in Respiratory system specimen by NAA with probe detection,NA,3,0,Inf,NA,NA,NA,-Inf
+Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay,NA,5,0,Inf,NA,NA,NA,-Inf
+Influenza virus A RNA [Presence] in Respiratory system specimen by NAA with probe detection,NA,3,0,Inf,NA,NA,NA,-Inf
+Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay,NA,5,0,Inf,NA,NA,NA,-Inf
+Influenza virus B RNA [Presence] in Respiratory system specimen by NAA with probe detection,NA,3,0,Inf,NA,NA,NA,-Inf
+Ketones [Presence] in Urine by Test strip,{nominal},2737,0,Inf,NA,NA,NA,-Inf
+Left eye Diabetic retinopathy severity level by Ophthalmoscopy,NA,132,0,Inf,NA,NA,NA,-Inf
+Leukocyte esterase [Presence] in Urine by Test strip,{nominal},2737,0,Inf,NA,NA,NA,-Inf
+Mucus [Presence] in Urine sediment by Light microscopy,{nominal},16,0,Inf,NA,NA,NA,-Inf
+Nitrite [Presence] in Urine by Test strip,{nominal},2737,0,Inf,NA,NA,NA,-Inf
+Objective assessment of cardiovascular disease NYHA,NA,2,0,Inf,NA,NA,NA,-Inf
+Odor of Urine,{nominal},2692,0,Inf,NA,NA,NA,-Inf
+Operative Status Value,{score},8,0,Inf,NA,NA,NA,-Inf
+Parainfluenza virus 1 RNA [Presence] in Respiratory system specimen by NAA with probe detection,NA,3,0,Inf,NA,NA,NA,-Inf
+Parainfluenza virus 2 RNA [Presence] in Respiratory system specimen by NAA with probe detection,NA,3,0,Inf,NA,NA,NA,-Inf
+Parainfluenza virus 3 RNA [Presence] in Respiratory system specimen by NAA with probe detection,NA,3,0,Inf,NA,NA,NA,-Inf
+Physical findings of Abdomen by Palpation,NA,11,0,Inf,NA,NA,NA,-Inf
+Physical findings of Prostate,{nominal},8,0,Inf,NA,NA,NA,-Inf
+Preferred language,NA,3012,0,Inf,NA,NA,NA,-Inf
+Pregnancy status,NA,64,0,Inf,NA,NA,NA,-Inf
+Primary insurance,NA,3012,0,Inf,NA,NA,NA,-Inf
+Primary tumor.clinical [Class] Cancer,NA,1,0,Inf,NA,NA,NA,-Inf
+Procedure Narrative,{#},38,0,Inf,NA,NA,NA,-Inf
+Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain,NA,1,0,Inf,NA,NA,NA,-Inf
+Protein [Presence] in Urine by Test strip,{nominal},2721,0,Inf,NA,NA,NA,-Inf
+Race,NA,3012,0,Inf,NA,NA,NA,-Inf
+Regional lymph nodes.clinical [Class] Cancer,NA,1,0,Inf,NA,NA,NA,-Inf
+Respiratory syncytial virus RNA [Presence] in Respiratory system specimen by NAA with probe detection,NA,3,0,Inf,NA,NA,NA,-Inf
+Response to cancer treatment,NA,3,0,Inf,NA,NA,NA,-Inf
+Rhinovirus RNA [Presence] in Respiratory system specimen by NAA with probe detection,NA,3,0,Inf,NA,NA,NA,-Inf
+Right eye Diabetic retinopathy severity level by Ophthalmoscopy,NA,132,0,Inf,NA,NA,NA,-Inf
+SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection,NA,8,0,Inf,NA,NA,NA,-Inf
+Sexual orientation,NA,1,0,Inf,NA,NA,NA,-Inf
+Site of distant metastasis in Breast tumor,NA,1,0,Inf,NA,NA,NA,-Inf
+Stage group.clinical Cancer,NA,2,0,Inf,NA,NA,NA,-Inf
+Stress level,NA,3012,0,Inf,NA,NA,NA,-Inf
+Study observation Left retina by OCT,{nominal},76,0,Inf,NA,NA,NA,-Inf
+Study observation Right retina by OCT,{nominal},76,0,Inf,NA,NA,NA,-Inf
+Symptom,NA,12,0,Inf,NA,NA,NA,-Inf
+Tobacco smoking status,NA,3420,0,Inf,NA,NA,NA,-Inf
+Treatment status Cancer,NA,2,0,Inf,NA,NA,NA,-Inf
+Within the last year  have you been afraid of your partner or ex-partner,NA,3012,0,Inf,NA,NA,NA,-Inf
